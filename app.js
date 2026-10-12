@@ -26,14 +26,14 @@ init()
 render()
 function init(){
     gameOver = false
-    timer = setInterval(rungame() , 2000)
+    timer = setInterval(rungame() , 6000)
 }
 
 function rungame (){
 
 }
 function render(){
-    
+
 }
 
 /*----------------------------- Event Listeners -----------------------------*/
